@@ -33,7 +33,7 @@ int main()
 	r = bin_search(a,0,n-1,s);
 	if (r == -1)
 	{
-		printf("No value found for given index\n");
+		printf("No value found for given value\n");
 	}
 	else
 	{
